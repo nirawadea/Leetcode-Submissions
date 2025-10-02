@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -31,4 +33,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
