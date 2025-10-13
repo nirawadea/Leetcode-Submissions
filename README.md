@@ -24,6 +24,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
