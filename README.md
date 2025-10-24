@@ -46,4 +46,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
