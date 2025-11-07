@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
@@ -50,6 +51,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [1078-remove-outermost-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/1078-remove-outermost-parentheses) |
@@ -58,4 +60,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/1078-remove-outermost-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
