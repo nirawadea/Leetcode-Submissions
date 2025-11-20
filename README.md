@@ -19,11 +19,13 @@
 | [0015-3sum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
@@ -57,6 +59,7 @@
 | [0020-valid-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -67,4 +70,16 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
