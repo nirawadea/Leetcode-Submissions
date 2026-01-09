@@ -85,4 +85,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/nirawadea/Leetcode-Submissions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
