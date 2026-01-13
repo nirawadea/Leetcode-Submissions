@@ -26,6 +26,7 @@
 | [0013-roman-to-integer](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -62,6 +63,7 @@
 | [0020-valid-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/nirawadea/Leetcode-Submissions/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
@@ -93,4 +95,8 @@
 | [1148-article-views-i](https://github.com/nirawadea/Leetcode-Submissions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/nirawadea/Leetcode-Submissions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/nirawadea/Leetcode-Submissions/tree/master/1757-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
