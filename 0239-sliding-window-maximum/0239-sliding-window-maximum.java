@@ -1,30 +1,30 @@
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
+         int[] output = new int[nums.length - k + 1];
+        Deque<Integer> q = new ArrayDeque<>(); // stores indices
+        int l = 0, r = 0, idx = 0;
 
-int n = nums.length;
-        int[] result = new int[n - k + 1];
-        Deque<Integer> dq = new ArrayDeque<>(); // stores indices
+        while (r < nums.length) {
+            // Pop smaller values from q
+            while (!q.isEmpty() && nums[q.peekLast()] < nums[r]) {
+                q.pollLast();
+            }
+            q.addLast(r);
 
-        for (int j = 0; j < n; j++) {
-            // Remove indices outside the window
-            if (!dq.isEmpty() && dq.peekFirst() < j - k + 1) {
-                dq.pollFirst();
+            // Remove left val if it's outside the window
+            if (l > q.peekFirst()) {
+                q.pollFirst();
             }
 
-            // Remove smaller elements from the back (they'll never be max)
-            while (!dq.isEmpty() && nums[dq.peekLast()] < nums[j]) {
-                dq.pollLast();
+            // Window has reached size k
+            if ((r + 1) >= k) {
+                output[idx++] = nums[q.peekFirst()];
+                l++;
             }
 
-            dq.addLast(j);
-
-            // Start recording results once first window is complete
-            if (j >= k - 1) {
-                result[j - k + 1] = nums[dq.peekFirst()];
-            }
+            r++;
         }
 
-        return result;
-
+        return output;
     }
 }
