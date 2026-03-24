@@ -19,7 +19,6 @@ class Solution {
                 }else {
                     j++;
                 }
-                
             }
             return result;
         }
