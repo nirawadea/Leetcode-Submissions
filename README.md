@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0239-sliding-window-maximum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -16,6 +17,7 @@
 | [0015-3sum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
