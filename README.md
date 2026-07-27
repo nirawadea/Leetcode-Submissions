@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0283-move-zeroes) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/nirawadea/Leetcode-Submissions/tree/master/0283-move-zeroes) |
